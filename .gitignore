@@ -1,6 +1,9 @@
 # Compiled python modules.
 *.pyc
 
+# Font files
+*.ttf
+
 # ipython information
 .ipynb_checkpoints
 
