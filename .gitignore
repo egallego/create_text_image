@@ -1,0 +1,15 @@
+# Compiled python modules.
+*.pyc
+
+# ipython information
+.ipynb_checkpoints
+
+# autoenv information
+.env
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
