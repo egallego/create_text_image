@@ -17,3 +17,7 @@ pip install -r requirements.txt
 
 ## Run the code
 Execute the notebook to generate images. A few examples of generated image are:
+
+![Alt text](./examples/quote_jobs.jpg)
+
+![Alt text](./examples/quote_disney.jpg)
